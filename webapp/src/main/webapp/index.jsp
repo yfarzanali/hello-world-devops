@@ -8,6 +8,7 @@
     <label for="Name"><b>Name</b></label>
     <br>
     <input type="text" placeholder="Enter your name" name="Name" id="Name" required>
+    <p>just adding another line here to make a change</p>
     <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
