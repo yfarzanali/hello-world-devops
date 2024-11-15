@@ -5,6 +5,9 @@
     <p>for yasin's devops site</p>
     <hr>
 
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter your name" name="Name" id="Name" required>
+    <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
