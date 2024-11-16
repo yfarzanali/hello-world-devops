@@ -11,7 +11,7 @@
     <p>just adding another line here to make a change</p>
     <br>
     <label for="mobile"><b>mobile</b></label>
-    <input type="text" placeholder="Enter your phone number" name="number" id="number" required>
+    <input type="text" placeholder="number" name="number" id="number" required>
     <br>
     <label for="email"><b>Enter Email Address</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
