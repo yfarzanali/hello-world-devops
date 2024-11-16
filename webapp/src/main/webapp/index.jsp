@@ -2,7 +2,8 @@
   <div class="container">
     <h1>New User Register</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>for yasin's devops site</p>
+    <p>for yasin's devops learning site</p>
+    <p>new content daily</p>
     <hr>
 
     <label for="Name"><b>Name</b></label>
