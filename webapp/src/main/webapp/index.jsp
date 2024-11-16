@@ -7,7 +7,7 @@
 
     <label for="Name"><b>Name</b></label>
     <br>
-    <input type="text" placeholder="Enter your name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter your name please" name="Name" id="Name" required>
     <p>just adding another line here to make a change</p>
     <br>
     <label for="email"><b>Email</b></label>
